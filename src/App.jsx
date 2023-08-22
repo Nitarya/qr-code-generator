@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>OR Code Generator</h1>
+      <h1>QR Code Generator</h1>
       <div className="input-box">
         <div className="gen">
           <input
